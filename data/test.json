@@ -1,0 +1,1042 @@
+[
+    {
+        "file_name": "BolivianRiverDolphin_19.jpg",
+        "file_size": 2483.7685546875,
+        "file_path": "images/BolivianRiverDolphin_19.jpg",
+        "animal_name": "Bolivian River Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "BolivianRiverDolphin_20.jpg",
+        "file_size": 392.4296875,
+        "file_path": "images/BolivianRiverDolphin_20.jpg",
+        "animal_name": "Bolivian River Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "CommersonsDolphin_19.jpg",
+        "file_size": 1345.14453125,
+        "file_path": "images/CommersonsDolphin_19.jpg",
+        "animal_name": "Commersons Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "CommersonsDolphin_20.jpg",
+        "file_size": 2092.439453125,
+        "file_path": "images/CommersonsDolphin_20.jpg",
+        "animal_name": "Commersons Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "Dugong_18.jpg",
+        "file_size": 1102.59375,
+        "file_path": "images/Dugong_18.jpg",
+        "animal_name": "Dugong",
+        "low_level": "Dugong",
+        "high_level": "Sirenian"
+    },
+    {
+        "file_name": "Dugong_20.jpg",
+        "file_size": 967.4140625,
+        "file_path": "images/Dugong_20.jpg",
+        "animal_name": "Dugong",
+        "low_level": "Dugong",
+        "high_level": "Sirenian"
+    },
+    {
+        "file_name": "FalseKillerWhale_19.jpg",
+        "file_size": 272.2939453125,
+        "file_path": "images/FalseKillerWhale_19.jpg",
+        "animal_name": "False Killer Whale",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "FalseKillerWhale_20.jpg",
+        "file_size": 97.671875,
+        "file_path": "images/FalseKillerWhale_20.jpg",
+        "animal_name": "False Killer Whale",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "GreySeal_19.jpg",
+        "file_size": 147.044921875,
+        "file_path": "images/GreySeal_19.jpg",
+        "animal_name": "Grey Seal",
+        "low_level": "Seal",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "GreySeal_20.jpg",
+        "file_size": 1596.5048828125,
+        "file_path": "images/GreySeal_20.jpg",
+        "animal_name": "Grey Seal",
+        "low_level": "Seal",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "HoodedSeal_19.jpg",
+        "file_size": 701.6884765625,
+        "file_path": "images/HoodedSeal_19.jpg",
+        "animal_name": "Hooded Seal",
+        "low_level": "Seal",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "HoodedSeal_20.jpg",
+        "file_size": 259.197265625,
+        "file_path": "images/HoodedSeal_20.jpg",
+        "animal_name": "Hooded Seal",
+        "low_level": "Seal",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "HourglassDolphin_19.jpg",
+        "file_size": 1566.017578125,
+        "file_path": "images/HourglassDolphin_19.jpg",
+        "animal_name": "Hourglass Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "HourglassDolphin_20.jpg",
+        "file_size": 185.994140625,
+        "file_path": "images/HourglassDolphin_20.jpg",
+        "animal_name": "Hourglass Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "HumpbackWhale_19.jpg",
+        "file_size": 319.4462890625,
+        "file_path": "images/HumpbackWhale_19.jpg",
+        "animal_name": "Humpback Whale",
+        "low_level": "Whale",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "HumpbackWhale_20.jpg",
+        "file_size": 1054.703125,
+        "file_path": "images/HumpbackWhale_20.jpg",
+        "animal_name": "Humpback Whale",
+        "low_level": "Whale",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "Indo-PacificHumpbackedDolphin_19.jpg",
+        "file_size": 225.8720703125,
+        "file_path": "images/Indo-PacificHumpbackedDolphin_19.jpg",
+        "animal_name": "Indo-Pacific Humpbacked Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "Indo-PacificHumpbackedDolphin_20.jpg",
+        "file_size": 300.353515625,
+        "file_path": "images/Indo-PacificHumpbackedDolphin_20.jpg",
+        "animal_name": "Indo-Pacific Humpbacked Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "IrrawaddyDolphin_19.jpg",
+        "file_size": 236.84375,
+        "file_path": "images/IrrawaddyDolphin_19.jpg",
+        "animal_name": "Irrawaddy Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "IrrawaddyDolphin_20.jpg",
+        "file_size": 293.5244140625,
+        "file_path": "images/IrrawaddyDolphin_20.jpg",
+        "animal_name": "Irrawaddy Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "Narwhal_19.jpg",
+        "file_size": 117.005859375,
+        "file_path": "images/Narwhal_19.jpg",
+        "animal_name": "Narwhal",
+        "low_level": "Whale",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "Narwhal_20.jpg",
+        "file_size": 164.9677734375,
+        "file_path": "images/Narwhal_20.jpg",
+        "animal_name": "Narwhal",
+        "low_level": "Whale",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "NorthernElephantSeal_19.jpg",
+        "file_size": 1088.740234375,
+        "file_path": "images/NorthernElephantSeal_19.jpg",
+        "animal_name": "Northern Elephant Seal",
+        "low_level": "Seal",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "NorthernElephantSeal_20.jpg",
+        "file_size": 4995.1181640625,
+        "file_path": "images/NorthernElephantSeal_20.jpg",
+        "animal_name": "Northern Elephant Seal",
+        "low_level": "Seal",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "PolarBear_19.jpg",
+        "file_size": 2272.1806640625,
+        "file_path": "images/PolarBear_19.jpg",
+        "animal_name": "Polar Bear",
+        "low_level": "Polar Bear",
+        "high_level": "Marine Fissiped"
+    },
+    {
+        "file_name": "PolarBear_20.jpg",
+        "file_size": 2383.9794921875,
+        "file_path": "images/PolarBear_20.jpg",
+        "animal_name": "Polar Bear",
+        "low_level": "Polar Bear",
+        "high_level": "Marine Fissiped"
+    },
+    {
+        "file_name": "PygmyKillerWhale_19.jpg",
+        "file_size": 222.98046875,
+        "file_path": "images/PygmyKillerWhale_19.jpg",
+        "animal_name": "Pygmy Killer Whale",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "PygmyKillerWhale_20.jpg",
+        "file_size": 277.00390625,
+        "file_path": "images/PygmyKillerWhale_20.jpg",
+        "animal_name": "Pygmy Killer Whale",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "RissosDolphin_19.jpg",
+        "file_size": 1104.921875,
+        "file_path": "images/RissosDolphin_19.jpg",
+        "animal_name": "Rissos Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "RissosDolphin_20.jpg",
+        "file_size": 815.9921875,
+        "file_path": "images/RissosDolphin_20.jpg",
+        "animal_name": "Rissos Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "SeaOtter_19.jpg",
+        "file_size": 174.859375,
+        "file_path": "images/SeaOtter_19.jpg",
+        "animal_name": "Sea Otter",
+        "low_level": "Sea Otter",
+        "high_level": "Marine Fissiped"
+    },
+    {
+        "file_name": "SeaOtter_20.jpg",
+        "file_size": 4951.1044921875,
+        "file_path": "images/SeaOtter_20.jpg",
+        "animal_name": "Sea Otter",
+        "low_level": "Sea Otter",
+        "high_level": "Marine Fissiped"
+    },
+    {
+        "file_name": "SouthernElephantSeal_19.jpg",
+        "file_size": 147.341796875,
+        "file_path": "images/SouthernElephantSeal_19.jpg",
+        "animal_name": "Southern Elephant Seal",
+        "low_level": "Seal",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "SouthernElephantSeal_20.jpg",
+        "file_size": 2685.7685546875,
+        "file_path": "images/SouthernElephantSeal_20.jpg",
+        "animal_name": "Southern Elephant Seal",
+        "low_level": "Seal",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "White-BeakedDolphin_19.jpg",
+        "file_size": 7846.6416015625,
+        "file_path": "images/White-BeakedDolphin_19.jpg",
+        "animal_name": "White-Beaked Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "White-BeakedDolphin_20.jpg",
+        "file_size": 211.1220703125,
+        "file_path": "images/White-BeakedDolphin_20.jpg",
+        "animal_name": "White-Beaked Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "BurmeistersPorpoise_19.jpg",
+        "file_size": 439.3388671875,
+        "file_path": "images/BurmeistersPorpoise_19.jpg",
+        "animal_name": "Burmeisters Porpoise",
+        "low_level": "Porpoise",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "BurmeistersPorpoise_20.jpg",
+        "file_size": 704.53125,
+        "file_path": "images/BurmeistersPorpoise_20.jpg",
+        "animal_name": "Burmeisters Porpoise",
+        "low_level": "Porpoise",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "DallsPorpoise_19.jpg",
+        "file_size": 273.7001953125,
+        "file_path": "images/DallsPorpoise_19.jpg",
+        "animal_name": "Dalls Porpoise",
+        "low_level": "Porpoise",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "DallsPorpoise_20.jpg",
+        "file_size": 1158.2392578125,
+        "file_path": "images/DallsPorpoise_20.jpg",
+        "animal_name": "Dalls Porpoise",
+        "low_level": "Porpoise",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "HarborSeal_19.jpg",
+        "file_size": 128.166015625,
+        "file_path": "images/HarborSeal_19.jpg",
+        "animal_name": "Harbor Seal",
+        "low_level": "Seal",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "HarborSeal_20.jpg",
+        "file_size": 377.302734375,
+        "file_path": "images/HarborSeal_20.jpg",
+        "animal_name": "Harbor Seal",
+        "low_level": "Seal",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "HarbourPorpoise_19.jpg",
+        "file_size": 796.9453125,
+        "file_path": "images/HarbourPorpoise_19.jpg",
+        "animal_name": "Harbour Porpoise",
+        "low_level": "Porpoise",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "HarbourPorpoise_20.jpg",
+        "file_size": 315.9296875,
+        "file_path": "images/HarbourPorpoise_20.jpg",
+        "animal_name": "Harbour Porpoise",
+        "low_level": "Porpoise",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "HarpSeal_19.jpg",
+        "file_size": 474.7021484375,
+        "file_path": "images/HarpSeal_19.jpg",
+        "animal_name": "Harp Seal",
+        "low_level": "Seal",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "HarpSeal_20.jpg",
+        "file_size": 931.046875,
+        "file_path": "images/HarpSeal_20.jpg",
+        "animal_name": "Harp Seal",
+        "low_level": "Seal",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "Indo-PacificFinlessPorpoise_19.jpg",
+        "file_size": 398.123046875,
+        "file_path": "images/Indo-PacificFinlessPorpoise_19.jpg",
+        "animal_name": "Indo-Pacific Finless Porpoise",
+        "low_level": "Porpoise",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "Indo-PacificFinlessPorpoise_20.jpg",
+        "file_size": 721.166015625,
+        "file_path": "images/Indo-PacificFinlessPorpoise_20.jpg",
+        "animal_name": "Indo-Pacific Finless Porpoise",
+        "low_level": "Porpoise",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "LeopardSeal_19.jpg",
+        "file_size": 2068.9951171875,
+        "file_path": "images/LeopardSeal_19.jpg",
+        "animal_name": "Leopard Seal",
+        "low_level": "Seal",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "LeopardSeal_20.jpg",
+        "file_size": 151.1787109375,
+        "file_path": "images/LeopardSeal_20.jpg",
+        "animal_name": "Leopard Seal",
+        "low_level": "Seal",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "SpottedSeal_19.jpg",
+        "file_size": 931.412109375,
+        "file_path": "images/SpottedSeal_19.jpg",
+        "animal_name": "Spotted Seal",
+        "low_level": "Seal",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "SpottedSeal_20.jpg",
+        "file_size": 597.2578125,
+        "file_path": "images/SpottedSeal_20.jpg",
+        "animal_name": "Spotted Seal",
+        "low_level": "Seal",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "Vaquita_19.jpg",
+        "file_size": 217.515625,
+        "file_path": "images/Vaquita_19.jpg",
+        "animal_name": "Vaquita",
+        "low_level": "Porpoise",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "Vaquita_20.jpg",
+        "file_size": 706.9140625,
+        "file_path": "images/Vaquita_20.jpg",
+        "animal_name": "Vaquita",
+        "low_level": "Porpoise",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "WeddellSeal_19.jpg",
+        "file_size": 563.8837890625,
+        "file_path": "images/WeddellSeal_19.jpg",
+        "animal_name": "Weddell Seal",
+        "low_level": "Seal",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "WeddellSeal_20.jpg",
+        "file_size": 393.52734375,
+        "file_path": "images/WeddellSeal_20.jpg",
+        "animal_name": "Weddell Seal",
+        "low_level": "Seal",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "AmazonRiverDolphin_28.jpg",
+        "file_size": 261.0322265625,
+        "file_path": "images/AmazonRiverDolphin_28.jpg",
+        "animal_name": "Amazon River Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "AmazonRiverDolphin_29.jpg",
+        "file_size": 207.0888671875,
+        "file_path": "images/AmazonRiverDolphin_29.jpg",
+        "animal_name": "Amazon River Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "AtlanticHumpbackDolphin_15.jpg",
+        "file_size": 276.623046875,
+        "file_path": "images/AtlanticHumpbackDolphin_15.jpg",
+        "animal_name": "Atlantic Humpback Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "AtlanticHumpbackDolphin_17.jpg",
+        "file_size": 268.7265625,
+        "file_path": "images/AtlanticHumpbackDolphin_17.jpg",
+        "animal_name": "Atlantic Humpback Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "AtlanticSpottedDolphin_26.jpg",
+        "file_size": 324.87890625,
+        "file_path": "images/AtlanticSpottedDolphin_26.jpg",
+        "animal_name": "Atlantic Spotted Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "AtlanticSpottedDolphin_27.jpg",
+        "file_size": 347.8447265625,
+        "file_path": "images/AtlanticSpottedDolphin_27.jpg",
+        "animal_name": "Atlantic Spotted Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "AtlanticWhite-SidedDolphin_25.jpg",
+        "file_size": 400.19921875,
+        "file_path": "images/AtlanticWhite-SidedDolphin_25.jpg",
+        "animal_name": "Atlantic White-Sided Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "AtlanticWhite-SidedDolphin_26.jpg",
+        "file_size": 367.8544921875,
+        "file_path": "images/AtlanticWhite-SidedDolphin_26.jpg",
+        "animal_name": "Atlantic White-Sided Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "BlueWhale_17.jpg",
+        "file_size": 180.1728515625,
+        "file_path": "images/BlueWhale_17.jpg",
+        "animal_name": "Blue Whale",
+        "low_level": "Whale",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "BlueWhale_18.jpg",
+        "file_size": 278.4609375,
+        "file_path": "images/BlueWhale_18.jpg",
+        "animal_name": "Blue Whale",
+        "low_level": "Whale",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "ClymeneDolphin_22.jpg",
+        "file_size": 295.79296875,
+        "file_path": "images/ClymeneDolphin_22.jpg",
+        "animal_name": "Clymene Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "ClymeneDolphin_23.jpg",
+        "file_size": 257.205078125,
+        "file_path": "images/ClymeneDolphin_23.jpg",
+        "animal_name": "Clymene Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "CommonDolphin_39.jpg",
+        "file_size": 254.4287109375,
+        "file_path": "images/CommonDolphin_39.jpg",
+        "animal_name": "Common Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "CommonDolphin_40.jpg",
+        "file_size": 496.546875,
+        "file_path": "images/CommonDolphin_40.jpg",
+        "animal_name": "Common Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "DuskyDolphin_21.jpg",
+        "file_size": 400.029296875,
+        "file_path": "images/DuskyDolphin_21.jpg",
+        "animal_name": "Dusky Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "DuskyDolphin_22.jpg",
+        "file_size": 313.689453125,
+        "file_path": "images/DuskyDolphin_22.jpg",
+        "animal_name": "Dusky Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "FinWhale_25.jpg",
+        "file_size": 324.3525390625,
+        "file_path": "images/FinWhale_25.jpg",
+        "animal_name": "Fin Whale",
+        "low_level": "Whale",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "FinWhale_26.jpg",
+        "file_size": 282.205078125,
+        "file_path": "images/FinWhale_26.jpg",
+        "animal_name": "Fin Whale",
+        "low_level": "Whale",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "GrayWhale_31.jpg",
+        "file_size": 301.0478515625,
+        "file_path": "images/GrayWhale_31.jpg",
+        "animal_name": "Gray Whale",
+        "low_level": "Whale",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "GrayWhale_32.jpg",
+        "file_size": 399.8798828125,
+        "file_path": "images/GrayWhale_32.jpg",
+        "animal_name": "Gray Whale",
+        "low_level": "Whale",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "GuianaDolphin_19.jpg",
+        "file_size": 379.7509765625,
+        "file_path": "images/GuianaDolphin_19.jpg",
+        "animal_name": "Guiana Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "GuianaDolphin_20.jpg",
+        "file_size": 430.5400390625,
+        "file_path": "images/GuianaDolphin_20.jpg",
+        "animal_name": "Guiana Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "HectorsDolphin_37.jpg",
+        "file_size": 361.111328125,
+        "file_path": "images/HectorsDolphin_37.jpg",
+        "animal_name": "Hectors Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "HectorsDolphin_38.jpg",
+        "file_size": 285.7939453125,
+        "file_path": "images/HectorsDolphin_38.jpg",
+        "animal_name": "Hectors Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "Indo-PacificBottlenoseDolphin_21.jpg",
+        "file_size": 274.6044921875,
+        "file_path": "images/Indo-PacificBottlenoseDolphin_21.jpg",
+        "animal_name": "Indo-Pacific Bottlenose Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "Indo-PacificBottlenoseDolphin_22.jpg",
+        "file_size": 316.263671875,
+        "file_path": "images/Indo-PacificBottlenoseDolphin_22.jpg",
+        "animal_name": "Indo-Pacific Bottlenose Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "MediterraneanMonkSeal_21.jpg",
+        "file_size": 116.255859375,
+        "file_path": "images/MediterraneanMonkSeal_21.jpg",
+        "animal_name": "Mediterranean Monk Seal",
+        "low_level": "Seal",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "MediterraneanMonkSeal_22.jpg",
+        "file_size": 139.7109375,
+        "file_path": "images/MediterraneanMonkSeal_22.jpg",
+        "animal_name": "Mediterranean Monk Seal",
+        "low_level": "Seal",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "Orca_44.jpg",
+        "file_size": 389.9658203125,
+        "file_path": "images/Orca_44.jpg",
+        "animal_name": "Orca",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "Orca_45.jpg",
+        "file_size": 413.0849609375,
+        "file_path": "images/Orca_45.jpg",
+        "animal_name": "Orca",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "RingedSeal_20.jpg",
+        "file_size": 250.0869140625,
+        "file_path": "images/RingedSeal_20.jpg",
+        "animal_name": "Ringed Seal",
+        "low_level": "Seal",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "RingedSeal_21.jpg",
+        "file_size": 248.7900390625,
+        "file_path": "images/RingedSeal_21.jpg",
+        "animal_name": "Ringed Seal",
+        "low_level": "Seal",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "SpinnerDolphin_21.jpg",
+        "file_size": 317.703125,
+        "file_path": "images/SpinnerDolphin_21.jpg",
+        "animal_name": "Spinner Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "SpinnerDolphin_22.jpg",
+        "file_size": 362.03125,
+        "file_path": "images/SpinnerDolphin_22.jpg",
+        "animal_name": "Spinner Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "StripedDolphin_36.jpg",
+        "file_size": 347.0771484375,
+        "file_path": "images/StripedDolphin_36.jpg",
+        "animal_name": "Striped Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "StripedDolphin_37.jpg",
+        "file_size": 173.8779296875,
+        "file_path": "images/StripedDolphin_37.jpg",
+        "animal_name": "Striped Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "AmazonianManatee_19.jpg",
+        "file_size": 495.318359375,
+        "file_path": "images/AmazonianManatee_19.jpg",
+        "animal_name": "Amazonian Manatee",
+        "low_level": "Manatee",
+        "high_level": "Sirenian"
+    },
+    {
+        "file_name": "AmazonianManatee_20.jpg",
+        "file_size": 349.513671875,
+        "file_path": "images/AmazonianManatee_20.jpg",
+        "animal_name": "Amazonian Manatee",
+        "low_level": "Manatee",
+        "high_level": "Sirenian"
+    },
+    {
+        "file_name": "AustralianSeaLion_19.jpg",
+        "file_size": 459.1767578125,
+        "file_path": "images/AustralianSeaLion_19.jpg",
+        "animal_name": "Australian Sea Lion",
+        "low_level": "Sea Lion",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "AustralianSeaLion_20.jpg",
+        "file_size": 538.9541015625,
+        "file_path": "images/AustralianSeaLion_20.jpg",
+        "animal_name": "Australian Sea Lion",
+        "low_level": "Sea Lion",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "BaikalSeal_19.jpg",
+        "file_size": 446.810546875,
+        "file_path": "images/BaikalSeal_19.jpg",
+        "animal_name": "Baikal Seal",
+        "low_level": "Seal",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "BaikalSeal_20.jpg",
+        "file_size": 370.619140625,
+        "file_path": "images/BaikalSeal_20.jpg",
+        "animal_name": "Baikal Seal",
+        "low_level": "Seal",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "BowheadWhale_19.jpg",
+        "file_size": 270.783203125,
+        "file_path": "images/BowheadWhale_19.jpg",
+        "animal_name": "Bowhead Whale",
+        "low_level": "Whale",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "BowheadWhale_20.jpg",
+        "file_size": 419.435546875,
+        "file_path": "images/BowheadWhale_20.jpg",
+        "animal_name": "Bowhead Whale",
+        "low_level": "Whale",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "BurrunanDolphin_19.jpg",
+        "file_size": 642.4619140625,
+        "file_path": "images/BurrunanDolphin_19.jpg",
+        "animal_name": "Burrunan Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "BurrunanDolphin_20.jpg",
+        "file_size": 2991.119140625,
+        "file_path": "images/BurrunanDolphin_20.jpg",
+        "animal_name": "Burrunan Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "CaliforniaSeaLion_19.jpg",
+        "file_size": 427.2470703125,
+        "file_path": "images/CaliforniaSeaLion_19.jpg",
+        "animal_name": "California Sea Lion",
+        "low_level": "Sea Lion",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "CaliforniaSeaLion_20.jpg",
+        "file_size": 1522.5703125,
+        "file_path": "images/CaliforniaSeaLion_20.jpg",
+        "animal_name": "California Sea Lion",
+        "low_level": "Sea Lion",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "CaspianSeal_19.jpg",
+        "file_size": 392.759765625,
+        "file_path": "images/CaspianSeal_19.jpg",
+        "animal_name": "Caspian Seal",
+        "low_level": "Seal",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "CaspianSeal_20.jpg",
+        "file_size": 215.71484375,
+        "file_path": "images/CaspianSeal_20.jpg",
+        "animal_name": "Caspian Seal",
+        "low_level": "Seal",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "DwarfSpermWhale_19.jpg",
+        "file_size": 872.4375,
+        "file_path": "images/DwarfSpermWhale_19.jpg",
+        "animal_name": "Dwarf Sperm Whale",
+        "low_level": "Whale",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "DwarfSpermWhale_20.jpg",
+        "file_size": 129.7412109375,
+        "file_path": "images/DwarfSpermWhale_20.jpg",
+        "animal_name": "Dwarf Sperm Whale",
+        "low_level": "Whale",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "HeavisidesDolphin_19.jpg",
+        "file_size": 581.6103515625,
+        "file_path": "images/HeavisidesDolphin_19.jpg",
+        "animal_name": "Heavisides Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "HeavisidesDolphin_20.jpg",
+        "file_size": 338.908203125,
+        "file_path": "images/HeavisidesDolphin_20.jpg",
+        "animal_name": "Heavisides Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "LaPlataDolphin_19.jpg",
+        "file_size": 284.41796875,
+        "file_path": "images/LaPlataDolphin_19.jpg",
+        "animal_name": "La Plata Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "LaPlataDolphin_20.jpg",
+        "file_size": 242.6015625,
+        "file_path": "images/LaPlataDolphin_20.jpg",
+        "animal_name": "La Plata Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "NewZealandSeaLion_19.jpg",
+        "file_size": 542.2490234375,
+        "file_path": "images/NewZealandSeaLion_19.jpg",
+        "animal_name": "New Zealand Sea Lion",
+        "low_level": "Sea Lion",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "NewZealandSeaLion_20.jpg",
+        "file_size": 698.3515625,
+        "file_path": "images/NewZealandSeaLion_20.jpg",
+        "animal_name": "New Zealand Sea Lion",
+        "low_level": "Sea Lion",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "RightWhale_19.jpg",
+        "file_size": 306.9013671875,
+        "file_path": "images/RightWhale_19.jpg",
+        "animal_name": "Right Whale",
+        "low_level": "Whale",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "RightWhale_20.jpg",
+        "file_size": 306.580078125,
+        "file_path": "images/RightWhale_20.jpg",
+        "animal_name": "Right Whale",
+        "low_level": "Whale",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "SouthAmericanSeaLion_19.jpg",
+        "file_size": 152.50390625,
+        "file_path": "images/SouthAmericanSeaLion_19.jpg",
+        "animal_name": "South American Sea Lion",
+        "low_level": "Sea Lion",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "SouthAmericanSeaLion_20.jpg",
+        "file_size": 182.4609375,
+        "file_path": "images/SouthAmericanSeaLion_20.jpg",
+        "animal_name": "South American Sea Lion",
+        "low_level": "Sea Lion",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "SouthAsianRiverDolphin_19.jpg",
+        "file_size": 169.4951171875,
+        "file_path": "images/SouthAsianRiverDolphin_19.jpg",
+        "animal_name": "South Asian River Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "SouthAsianRiverDolphin_20.jpg",
+        "file_size": 122.25,
+        "file_path": "images/SouthAsianRiverDolphin_20.jpg",
+        "animal_name": "South Asian River Dolphin",
+        "low_level": "Dolphin",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "SpermWhale_19.jpg",
+        "file_size": 153.7763671875,
+        "file_path": "images/SpermWhale_19.jpg",
+        "animal_name": "Sperm Whale",
+        "low_level": "Whale",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "SpermWhale_20.jpg",
+        "file_size": 1433.552734375,
+        "file_path": "images/SpermWhale_20.jpg",
+        "animal_name": "Sperm Whale",
+        "low_level": "Whale",
+        "high_level": "Cetacean"
+    },
+    {
+        "file_name": "StellerSeaLion_19.jpg",
+        "file_size": 833.6962890625,
+        "file_path": "images/StellerSeaLion_19.jpg",
+        "animal_name": "Steller Sea Lion",
+        "low_level": "Sea Lion",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "StellerSeaLion_20.jpg",
+        "file_size": 156.9169921875,
+        "file_path": "images/StellerSeaLion_20.jpg",
+        "animal_name": "Steller Sea Lion",
+        "low_level": "Sea Lion",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "Walrus_39.jpg",
+        "file_size": 614.033203125,
+        "file_path": "images/Walrus_39.jpg",
+        "animal_name": "Walrus",
+        "low_level": "Walrus",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "Walrus_40.jpg",
+        "file_size": 748.107421875,
+        "file_path": "images/Walrus_40.jpg",
+        "animal_name": "Walrus",
+        "low_level": "Walrus",
+        "high_level": "Pinniped"
+    },
+    {
+        "file_name": "WestAfricanManatee_19.jpg",
+        "file_size": 4110.9130859375,
+        "file_path": "images/WestAfricanManatee_19.jpg",
+        "animal_name": "West African Manatee",
+        "low_level": "Manatee",
+        "high_level": "Sirenian"
+    },
+    {
+        "file_name": "WestAfricanManatee_20.jpg",
+        "file_size": 165.52734375,
+        "file_path": "images/WestAfricanManatee_20.jpg",
+        "animal_name": "West African Manatee",
+        "low_level": "Manatee",
+        "high_level": "Sirenian"
+    },
+    {
+        "file_name": "WestIndianManatee_19.jpg",
+        "file_size": 194.146484375,
+        "file_path": "images/WestIndianManatee_19.jpg",
+        "animal_name": "West Indian Manatee",
+        "low_level": "Manatee",
+        "high_level": "Sirenian"
+    },
+    {
+        "file_name": "WestIndianManatee_20.jpg",
+        "file_size": 346.291015625,
+        "file_path": "images/WestIndianManatee_20.jpg",
+        "animal_name": "West Indian Manatee",
+        "low_level": "Manatee",
+        "high_level": "Sirenian"
+    }
+]
